@@ -186,10 +186,10 @@ immutable-sorted@^0.2.11:
   resolved "https://registry.yarnpkg.com/immutable-sorted/-/immutable-sorted-0.2.11.tgz#e8961c9257c8c2b76192752125186da91ac055ae"
   integrity sha512-z8BX7DSJ/JoPjOsRSW6Sj/k0FhYb2COZ42ezVHmPBAT7gNTWMAbDXjyL8Hd1wp3ZzlIThAeSjKdigBRJ/740DQ==
 
-immutable@4.0.0-rc.12:
-  version "4.0.0-rc.12"
-  resolved "https://registry.yarnpkg.com/immutable/-/immutable-4.0.0-rc.12.tgz#ca59a7e4c19ae8d9bf74a97bdf0f6e2f2a5d0217"
-  integrity sha512-0M2XxkZLx/mi3t8NVwIm1g8nHoEmM9p9UBl/G9k4+hm0kBgOVdMV/B3CY5dQ8qG8qc80NN4gDV4HQv6FTJ5q7A==
+immutable@4.3.8:
+  version "4.3.8"
+  resolved "https://registry.yarnpkg.com/immutable/-/immutable-4.3.8.tgz#02d183c7727fb2bb1d5d0380da0d779dce9296a7"
+  integrity sha512-d/Ld9aLbKpNwyl0KiM2CT1WYvkitQ1TSvmRtkcV8FKStiDoA7Slzgjmb/1G2yhKM1p0XeNOieaTbFZmU1d3Xuw==
 
 lodash@^4.17.4:
   version "4.17.21"
